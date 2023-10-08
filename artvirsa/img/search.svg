@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with PhotoLine 23.02 (www.pl32.com) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="27" height="27" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Icon_feather-search" transform="matrix(0.987672 0 0 0.987672 -3.95069 -3.95069)">
+    <g id="Path_95">
+      <path stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#700f1a" d="M27.73 16.11 C27.73 22.52 22.52 27.73 16.11 27.73 C9.71 27.73 4.5 22.52 4.5 16.11 C4.5 9.71 9.71 4.5 16.11 4.5 C22.52 4.5 27.73 9.7 27.73 16.11 C27.73 16.11 27.73 16.11 27.73 16.11 Z"/>
+    </g>
+    <g id="Path_96" transform="matrix(1 0 0 1 -0.66 -0.66)">
+      <path stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#700f1a" d="M31.29 31.29 L24.97 24.97"/>
+    </g>
+  </g>
+</svg>
